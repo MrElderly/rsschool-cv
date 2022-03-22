@@ -40,3 +40,21 @@ const addToCart = (id) =>{
 ```
 
 ***********************
+
+## Work experience:
+
+Nothing yet…
+I'm student in PSU
+
+***********************
+
+## Education and courses:
+1. JS, CSS, HTML, Git video courses on YouTube channel Glo Academy
+2. JavaScript: https://learn.javascript.ru/
+3. JavaScript: https://developer.mozilla.org/ru/docs/Web/JavaScript
+
+***********************
+
+## Language:
+
+English level - A2

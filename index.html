@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header></header>
+    <main>
+        <div id="name">
+            <h1>Andrei Tarasevich</h1>
+        </div>
+        <div id="contact">
+            <h2>Contacts</h2>
+            <address >
+                <a id="telega" href="https://t.me/MrMudrec">Telegram</a>  
+                <p>Email: mudrec.super@gmail.com </p>
+            </address>
+        </div>
+        <div id="info">
+            <h2>Briefly About Myself:</h2>
+            <p>I study at PSU.<br>
+                I want to learn Front-End Development in RSSchool! <br>
+                I want to become a good Frontend-developer.</p>
+        </div>
+        <div id="skill">
+            <h2>Skills</h2>
+           <ul id="size">
+               <li>HTML</li>
+               <li>CSS</li>
+               <li>C++ (and Qt)</li>
+               <li>JavaScritp (Basic)</li>
+               <li>Git</li>
+               <li>VS Code</li>
+           </ul> 
+        </div>
+        <div id="code">
+            <h2>Code example:</h2>
+            <code>const addToCart = (id) =>{  <br>
+                const goods = JSON.parse(localStorage.getItem('goods'))<br>
+                const clickedGoods= goods.find(good => good.id === id)<br>
+                const cart = localStorage.getItem('cart') ? <br>
+                 JSON.parse(localStorage.getItem('cart')): []<br>
+             }
+            </code>
+        </div>
+        <div id="work">
+            <h2>Work experience:</h2>
+            <p>
+                Nothing yet…<br>
+                I'm student in PSU 
+            </p>
+        </div>
+        <div id="education">
+           <h2>Education and courses:</h2> 
+       <ol id="size">
+        <li> JS, CSS, HTML, Git video courses on YouTube channel Glo Academy</li>
+        <li>JavaScript: https://learn.javascript.ru/</li>
+        <li> JavaScript: https://developer.mozilla.org/ru/docs/Web/JavaScript</li>
+       </ol>
+        </div>
+        <div id="language">
+            <h2>Language</h2>
+            <p>English level - A2</p>
+        </div>
+    </main>
+</body>
+</html>

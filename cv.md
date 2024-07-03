@@ -6,7 +6,7 @@
 
 
 * Location: Novopolotsk, Belarus
-* Phone: +375 (29) 88-60-256
+* Phone: +375 33 88-60-256
 * Email: mudrec.super@gmail.com
 * GitHub: MrElderly
 * Telegram: https://t.me/MrMudrec

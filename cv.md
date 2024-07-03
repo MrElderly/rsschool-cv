@@ -34,7 +34,10 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 
 ## Education
 
-* University: PSU 
+1. University: PSU
+2. JS, CSS, HTML, Git video courses on YouTube channel Glo Academy
+3. JavaScript: https://learn.javascript.ru/
+4. JavaScript: https://developer.mozilla.org/ru/docs/Web/JavaScript
 
 ## English
 

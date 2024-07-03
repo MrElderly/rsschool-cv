@@ -9,6 +9,7 @@
 * Phone: +375 (29) 88-60-256
 * Email: mudrec.super@gmail.com
 * GitHub: MrElderly
+* Telegram: https://t.me/MrMudrec
 
 ## About Me 
 
